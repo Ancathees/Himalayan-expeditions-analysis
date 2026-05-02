@@ -12,9 +12,6 @@ venv/
 # Data procesada (reproducible desde raw)
 data/processed/
 
-# Outputs (reproducibles ejecutando el notebook)
-output/
-
 # OS
 .DS_Store
 
