@@ -94,16 +94,6 @@ Desarrollé el proyecto de principio a fin de manera individual:
 
 ---
 
-## Enlace al repositorio
-
-> ⚠️ Pendiente: agregar URL del repositorio en GitHub.
-
-## Demo / Notebook
-
-> ⚠️ Pendiente: agregar enlace a nbviewer o Binder para visualizar el notebook en línea.
-
----
-
 ## Cómo ejecutar
 
 ```bash
